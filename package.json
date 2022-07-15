@@ -1,0 +1,19 @@
+{
+	"name": "aery_erp",
+	"version": "1.0.0",
+	"description": "AERY ERP",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon app"
+	},
+	"author": "Brad",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.19"
+	},
+	"dependencies": {
+		"bootstrap": "^5.2.0-beta1",
+		"ejs": "^3.1.8"
+	}
+}
